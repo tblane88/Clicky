@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Homer simpson",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/bd/Homer_Simpson.png/revision/latest?cb=20140126234206",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Marge Simpson",
+      "image": "https://i.pinimg.com/originals/63/e4/7d/63e47d98e66622bbff5e4578ccffeffc.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Bart Simpson",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png/revision/latest?cb=20180319061933",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Lisa Simpson",
+      "image": "https://data.whicdn.com/images/309487318/large.jpg?t=1521902468",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Maggie Simpson",
+      "image": "https://i.pinimg.com/originals/54/2f/6f/542f6f41a37ec8055f7822a7c69949f5.jpg" ,
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Groundskeeper Willie",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_willie_550x960.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Apu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0u7QniqZCS3Y92FUf5DBZALhjqyUDPuPvZF0nw5rCnE0u-dMC",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Comic Book Guy",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_comicbookguy_550x960.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Milhouse Van Houten",
+      "image": "https://i.pinimg.com/originals/8f/69/73/8f6973a1df71128f037e73138d6997d5.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Professor Frink",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_professorfrink_550x960.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Principal Skinner",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_skinner_550x960.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Duff Man",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_duffman_550x960.png",
+      "clicked": false
+    }
+  ]
+  
